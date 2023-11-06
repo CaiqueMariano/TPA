@@ -24,12 +24,8 @@ public class Pares {
 			 }
 		}
 		
-		
-		
-		
-		
-		
-		
+			
+		in.close();
 
 	}
 
