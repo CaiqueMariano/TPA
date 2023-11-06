@@ -27,7 +27,7 @@ public class Fatorial {
 		for(i = 0; i < TAM; i++) {
 			System.out.println(+a[i]+" Fatorial é igual a: \n"+b[i] );
 		}
-
+	in.close();
 	}
 
 }
