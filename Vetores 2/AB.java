@@ -17,7 +17,7 @@ public class AB {
 			r = a[i] % 2;
 			if(r == 0) {
 				b[i] = 1;
-			}else if(r != 0) {
+			}else {
 				b[i] = 0;
 			}
 		}
