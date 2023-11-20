@@ -6,7 +6,6 @@ public class Tabuada {
                 final int TAM = 5;
 
                 a = new int [TAM];
-                //b = new int [TAM];
 
                 for(i = 0; i <= 4; i++) {
                         System.out.println("Digite o número pra tabuada");
